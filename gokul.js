@@ -1,3 +1,3 @@
 var a=100;
 var b=200;
-console.log(b+a);
+console.log(b-a);
